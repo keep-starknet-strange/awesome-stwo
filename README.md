@@ -66,6 +66,12 @@
 
 - [starkstr](https://github.com/AbdelStark/starkstr) - Nostr x STARKs exploration project using STWO to generate STARK proofs for various Nostr use cases. First one being explored is [Delegated aggregate signature verification](https://github.com/nostr-protocol/nips/pull/1682).
 
+## General Proving
+
+*Projects using STWO for proof generation.*
+
+- [Keth](https://github.com/kkrt-labs/keth) - An open-source proving backend for the Ethereum Execution Layer built with on Starkware's provable VM, Cairo.
+
 ## Contributing
 
 Your contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
