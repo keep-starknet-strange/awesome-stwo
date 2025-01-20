@@ -66,5 +66,3 @@ Your contributions are always welcome! Please read the [contribution guidelines]
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-To the extent possible under law, [Keep Starknet Strange](https://github.com/keep-starknet-strange) has waived all copyright and related or neighboring rights to this work.
