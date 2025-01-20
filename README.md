@@ -80,6 +80,12 @@ _ZK-VMs provable with Stwo._
 
 - [Stwo-Brainfuck](https://github.com/kkrt-labs/stwo-brainfuck) - A ZK-VM for the Brainfuck language, provable with Stwo.
 
+## Circuit Libraries
+
+_Libraries and utilities for building STWO based programs._
+
+- [NumerAir](https://github.com/gizatechxyz/NumerAir) - A fixed-point arithmetic library providing constrained fixed-point operations for Stwo-based circuits using M31 field elements with configurable decimal precision.
+
 ## Contributing
 
 Your contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
