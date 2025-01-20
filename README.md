@@ -22,6 +22,7 @@
 - [Awesome STWO ](#awesome-stwo-)
   - [Contents](#contents)
   - [Resources](#resources)
+  - [Tutorials](#tutorials)
   - [Client Side Proving](#client-side-proving)
     - [Starknet](#starknet)
     - [Cashu](#cashu)
@@ -37,6 +38,12 @@
 - [Circle STARKs paper](https://eprint.iacr.org/2024/278) - Official Circle STARKs paper.
 - [Documentation - Coming soon](https://starkware.co) - Official STWO documentation.
 
+## Tutorials
+
+*Tutorials and guides for STWO.*
+
+> Coming soon...
+
 ## Client Side Proving
 
 *Projects using STWO for client-side proof generation.*
@@ -45,7 +52,7 @@
 
 *Projects integrating STWO with Starknet.*
 
-- Coming soon...
+> Coming soon...
 
 ### Cashu
 
