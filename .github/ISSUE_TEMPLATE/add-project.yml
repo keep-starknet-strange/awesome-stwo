@@ -1,0 +1,60 @@
+name: 🚀 Add Project
+description: Submit a new project to be added to the awesome list
+title: "Add: "
+labels: ["new-project"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to submit a project!
+  - type: input
+    id: project-name
+    attributes:
+      label: Project Name
+      description: The name of the project you want to add
+      placeholder: "e.g., My Awesome STWO Project"
+    validations:
+      required: true
+  - type: input
+    id: project-url
+    attributes:
+      label: Project URL
+      description: The link to the project repository or website
+      placeholder: "https://github.com/username/project"
+    validations:
+      required: true
+  - type: textarea
+    id: project-description
+    attributes:
+      label: Project Description
+      description: A brief description of what the project does
+      placeholder: "This project..."
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which category does this project belong to?
+      options:
+        - Client Side Proving - Starknet
+        - Client Side Proving - Cashu
+        - Client Side Proving - Nostr
+        - Resources
+        - Other (please specify in description)
+    validations:
+      required: true
+  - type: checkboxes
+    id: prerequisites
+    attributes:
+      label: Prerequisites
+      description: Please ensure your submission meets our requirements
+      options:
+        - label: The project is actively maintained
+          required: true
+        - label: The project has documentation
+          required: true
+        - label: The project is open source
+          required: true
+        - label: I have read the [contribution guidelines](../CONTRIBUTING.md)
+          required: true
