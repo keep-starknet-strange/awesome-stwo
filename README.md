@@ -72,6 +72,13 @@
 
 - [Keth](https://github.com/kkrt-labs/keth) - An open-source proving backend for the Ethereum Execution Layer built with on Starkware's provable VM, Cairo.
 
+## ZK-VMs
+
+*ZK-VMs provable with Stwo.*
+
+- [Stwo-Brainfuck](https://github.com/kkrt-labs/stwo-brainfuck) - A ZK-VM for the Brainfuck language, provable with Stwo.
+
+
 ## Contributing
 
 Your contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
