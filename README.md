@@ -27,6 +27,8 @@
     - [Starknet](#starknet)
     - [Cashu](#cashu)
     - [Nostr](#nostr)
+  - [General Proving](#general-proving)
+  - [ZK-VMs](#zk-vms)
   - [Contributing](#contributing)
   - [License](#license)
 
