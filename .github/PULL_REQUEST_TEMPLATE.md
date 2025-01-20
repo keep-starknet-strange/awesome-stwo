@@ -1,9 +1,11 @@
 ## Description
+
 <!-- Please include a summary of the change and which issue is fixed. -->
 
 Fixes # (issue)
 
 ## Type of change
+
 <!-- Please delete options that are not relevant. -->
 
 - [ ] New project addition
@@ -12,6 +14,7 @@ Fixes # (issue)
 - [ ] Other (please describe)
 
 ## Checklist
+
 <!-- Please delete options that are not relevant. -->
 
 - [ ] I have read the [CONTRIBUTING](../CONTRIBUTING.md) doc
@@ -21,4 +24,4 @@ Fixes # (issue)
 - [ ] I have added the project to the appropriate category
 - [ ] The project description is clear and concise
 - [ ] All links are working
-- [ ] I have checked my spelling and grammar 
+- [ ] I have checked my spelling and grammar

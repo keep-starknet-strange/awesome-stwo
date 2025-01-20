@@ -32,4 +32,4 @@ Thank you for your interest in contributing to Awesome STWO! This document provi
 - Describe the issue clearly
 - Provide steps to reproduce if applicable
 
-Thank you for your contributions! 
+Thank you for your contributions!

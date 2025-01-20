@@ -34,7 +34,7 @@
 
 ## Resources
 
-*Official resources and documentation.*
+_Official resources and documentation._
 
 - [STWO](https://github.com/starkware-libs/stwo) - Official STWO repository.
 - [Circle STARKs paper](https://eprint.iacr.org/2024/278) - Official Circle STARKs paper.
@@ -42,44 +42,43 @@
 
 ## Tutorials
 
-*Tutorials and guides for STWO.*
+_Tutorials and guides for STWO._
 
 > Coming soon...
 
 ## Client Side Proving
 
-*Projects using STWO for client-side proof generation.*
+_Projects using STWO for client-side proof generation._
 
 ### Starknet
 
-*Projects integrating STWO with Starknet.*
+_Projects integrating STWO with Starknet._
 
 > Coming soon...
 
 ### Cashu
 
-*Projects using STWO with Cashu.*
+_Projects using STWO with Cashu._
 
 - [Cashu Cairo Spending Conditions](https://github.com/tdelabro/cdk/tree/stow-spending-condition) - Define Cashu spending conditions using Cairo and STWO for proving.
 
 ### Nostr
 
-*Projects combining STWO with Nostr.*
+_Projects combining STWO with Nostr._
 
 - [starkstr](https://github.com/AbdelStark/starkstr) - Nostr x STARKs exploration project using STWO to generate STARK proofs for various Nostr use cases. First one being explored is [Delegated aggregate signature verification](https://github.com/nostr-protocol/nips/pull/1682).
 
 ## General Proving
 
-*Projects using STWO for proof generation.*
+_Projects using STWO for proof generation._
 
 - [Keth](https://github.com/kkrt-labs/keth) - An open-source proving backend for the Ethereum Execution Layer built with on Starkware's provable VM, Cairo.
 
 ## ZK-VMs
 
-*ZK-VMs provable with Stwo.*
+_ZK-VMs provable with Stwo._
 
 - [Stwo-Brainfuck](https://github.com/kkrt-labs/stwo-brainfuck) - A ZK-VM for the Brainfuck language, provable with Stwo.
-
 
 ## Contributing
 
