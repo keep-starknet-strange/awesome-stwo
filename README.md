@@ -50,6 +50,8 @@ _Tutorials and guides for STWO._
 
 _Projects using STWO for client-side proof generation._
 
+- [Stwo-web-STARK](https://github.com/Okm165/stwo-web-stark) - Client-side proving, trace generation, and proof verification using STWO in a web-based interface.
+
 ### Starknet
 
 _Projects integrating STWO with Starknet._
@@ -73,8 +75,6 @@ _Projects combining STWO with Nostr._
 _Projects using STWO for proof generation._
 
 - [Keth](https://github.com/kkrt-labs/keth) - An open-source proving backend for the Ethereum Execution Layer built with on Starkware's provable VM, Cairo.
-
-- [Stwo-web-STARK](https://github.com/Okm165/stwo-web-stark) - Client-side proving, trace generation, and proof verification using STWO in a web-based interface.
 
 ## ZK-VMs
 
