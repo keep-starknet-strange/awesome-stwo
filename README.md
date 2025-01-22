@@ -50,6 +50,8 @@ _Tutorials and guides for STWO._
 
 _Projects using STWO for client-side proof generation._
 
+- [Stwo-web-STARK](https://github.com/Okm165/stwo-web-stark) - Client-side proving, trace generation, and proof verification using STWO in a web-based interface.
+
 ### Starknet
 
 _Projects integrating STWO with Starknet._
