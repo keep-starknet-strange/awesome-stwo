@@ -52,6 +52,8 @@ _Projects using STWO for client-side proof generation._
 
 - [Stwo-web-STARK](https://github.com/Okm165/stwo-web-stark) - Client-side proving, trace generation, and proof verification using STWO in a web-based interface.
 
+- [zkemail-cairo](https://github.com/iosis-tech/zkemail-cairo) - DKIM RSA-SHA256 verification circuit, prove email content and domain ownership leveraging ZKP. 
+
 ### Starknet
 
 _Projects integrating STWO with Starknet._
