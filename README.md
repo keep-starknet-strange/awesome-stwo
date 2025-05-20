@@ -78,6 +78,7 @@ _Projects using STWO for proof generation._
 
 - [Keth](https://github.com/kkrt-labs/keth) - An open-source proving backend for the Ethereum Execution Layer built with on Starkware's provable VM, Cairo.
 - [LuminAIR](https://github.com/gizatechxyz/LuminAIR) - An open-source Machine Learning framework that leverages STWO to ensure the integrity of computational graphs.
+- [VEX](git@github.com:trade-vex/awesome-stwo.git) - A fast provable orderbook that reduces the entire order matching engine to hash operations. Implemented in STWO
 
 ## ZK-VMs
 
