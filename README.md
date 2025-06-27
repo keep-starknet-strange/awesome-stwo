@@ -25,8 +25,7 @@
   - [Tutorials](#tutorials)
   - [Client Side Proving](#client-side-proving)
     - [Starknet](#starknet)
-    - [Cashu](#cashu)
-    - [Nostr](#nostr)
+    - [Bitcoin](#bitcoin)
   - [General Proving](#general-proving)
   - [ZK-VMs](#zk-vms)
   - [Contributing](#contributing)
@@ -51,7 +50,6 @@ _Tutorials and guides for STWO._
 _Projects using STWO for client-side proof generation._
 
 - [Stwo-web-STARK](https://github.com/Okm165/stwo-web-stark) - Client-side proving, trace generation, and proof verification using STWO in a web-based interface.
-
 - [zkemail-cairo](https://github.com/iosis-tech/zkemail-cairo) - DKIM RSA-SHA256 verification circuit, prove email content and domain ownership leveraging ZKP. 
 
 ### Starknet
@@ -60,17 +58,16 @@ _Projects integrating STWO with Starknet._
 
 > Coming soon...
 
-### Cashu
+### Bitcoin
 
-_Projects using STWO with Cashu._
+_Projects using STWO with Bitcoin and symbiotic ecosystems._
 
+- [Raito](https://github.com/starkware-bitcoin/raito) — Bitcoin ZK client using Stwo to recursively verify block validation and to generate one succinct proof of chain correctness.
 - [Cashu Cairo Spending Conditions](https://github.com/tdelabro/cdk/tree/stow-spending-condition) - Define Cashu spending conditions using Cairo and STWO for proving.
-
-### Nostr
-
-_Projects combining STWO with Nostr._
-
 - [starkstr](https://github.com/AbdelStark/starkstr) - Nostr x STARKs exploration project using STWO to generate STARK proofs for various Nostr use cases. First one being explored is [Delegated aggregate signature verification](https://github.com/nostr-protocol/nips/pull/1682).
+- [s2morrow](https://github.com/starkware-bitcoin/s2morrow) — Exploring PQ signature schemes aggregation with STARKs.
+- [Bitcoin Wildlife Sanctuary](https://github.com/Bitcoin-Wildlife-Sanctuary) — Verifying Stwo proofs on Bitcoin with enabled OP_CAT opcode.
+- [Stark symphony](https://github.com/starkware-bitcoin/stark-symphony) — Verifying Stwo proofs on Liquid with Simplicity script.
 
 ## General Proving
 
@@ -85,6 +82,9 @@ _Projects using STWO for proof generation._
 _ZK-VMs provable with Stwo._
 
 - [Stwo-Brainfuck](https://github.com/kkrt-labs/stwo-brainfuck) - A ZK-VM for the Brainfuck language, provable with Stwo.
+- [Cairo](https://github.com/starkware-libs/stwo-cairo) — Cairo VM used for running Starknet OS, Starknet contracts, and general programs written in Cairo.
+- [RiscV](https://github.com/nexus-xyz/nexus-zkvm) — A framework for writing verifiable programs in Rust.
+- [Cairo-M](https://github.com/kkrt-labs/cairo-m) — A new zkVM leveraging M31 field to unleash the maximum power of Stwo for mobile proving.
 
 ## Circuit Libraries
 
