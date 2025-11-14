@@ -69,6 +69,12 @@ _Projects using STWO with Bitcoin and symbiotic ecosystems._
 - [Bitcoin Wildlife Sanctuary](https://github.com/Bitcoin-Wildlife-Sanctuary) — Verifying Stwo proofs on Bitcoin with enabled OP_CAT opcode.
 - [Stark symphony](https://github.com/starkware-bitcoin/stark-symphony) — Verifying Stwo proofs on Liquid with Simplicity script.
 
+  ### Ethereum
+  _Projects using STWO with Ethereum and symbiotic ecosystems._
+
+  - [Bankai](https://github.com/bankaixyz/bankai-cairo) - Ethereum ZK client using Stwo to recursively verify header updates via the Sync Committee
+
+
 ## General Proving
 
 _Projects using STWO for proof generation._
