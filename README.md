@@ -74,7 +74,6 @@ _Projects using STWO with Bitcoin and symbiotic ecosystems._
 _Projects using STWO for proof generation._
 
 - [Keth](https://github.com/kkrt-labs/keth) - An open-source proving backend for the Ethereum Execution Layer built with on Starkware's provable VM, Cairo.
-- [LuminAIR](https://github.com/gizatechxyz/LuminAIR) - An open-source Machine Learning framework that leverages STWO to ensure the integrity of computational graphs.
 - [VEX](https://github.com/trade-vex/vex-prover) - A fast provable orderbook that reduces the entire order matching engine to hash operations. Implemented in STWO
 
 ## ZK-VMs
@@ -85,6 +84,14 @@ _ZK-VMs provable with Stwo._
 - [Cairo](https://github.com/starkware-libs/stwo-cairo) — Cairo VM used for running Starknet OS, Starknet contracts, and general programs written in Cairo.
 - [RiscV](https://github.com/nexus-xyz/nexus-zkvm) — A framework for writing verifiable programs in Rust.
 - [Cairo-M](https://github.com/kkrt-labs/cairo-m) — A new zkVM leveraging M31 field to unleash the maximum power of Stwo for mobile proving.
+
+## AI
+
+_Projects using Stwo in AI related projects_
+
+- [LuminAIR](https://github.com/gizatechxyz/LuminAIR) - An open-source Machine Learning framework that leverages STWO to ensure the integrity of computational graphs.
+- [Zunigram](https://github.com/raphaelDkhn/zunigram) - A STARK-based prover for proving unigram LLM-watermark detection using the Stwo prover.
+- [Freivalds-Stwo](https://github.com/raphaelDkhn/freivalds-stwo) - A STARK-based prover for proving matrix multiplication efficiently using Freivalds' algorithm.
 
 ## Circuit Libraries
 
